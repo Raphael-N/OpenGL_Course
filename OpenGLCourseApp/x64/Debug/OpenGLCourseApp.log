@@ -1,0 +1,3 @@
+﻿  OpenGLCourseApp.cpp
+C:\Users\Raphael\Documents\Visual Studio 2019\Projects\OpenGLCourseApp\OpenGLCourseApp\OpenGLCourseApp.cpp(71,36): warning C4267: "=": Konvertierung von "size_t" nach "GLint", Datenverlust möglich
+  OpenGLCourseApp.vcxproj -> C:\Users\Raphael\Documents\Visual Studio 2019\Projects\OpenGLCourseApp\x64\Debug\OpenGLCourseApp.exe
